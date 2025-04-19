@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="DangKyNghi.xsl"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<dangky
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='DangKyNghi.xsd'
+    loai="Ngày nghỉ">
+    <ngaylamviec ngay="2022-11-18">
+        <nhanvien manv="S0001">
+            <lydo>P</lydo>
+            <donvi>0.5</donvi>
+            <trangthai>Chờ phê duyệt</trangthai>
+        </nhanvien>
+        <nhanvien manv="S0002">
+            <lydo>O</lydo>
+            <donvi>2</donvi>
+            <trangthai>Không được phê duyệt</trangthai>
+        </nhanvien>
+        <nhanvien manv="S0003">
+            <lydo>P</lydo>
+            <donvi>1</donvi>
+            <trangthai>Đã phê duyệt</trangthai>
+        </nhanvien>
+    </ngaylamviec>
+    
+    <ngaylamviec ngay="2022-11-19">
+        <nhanvien manv="S0004">
+            <lydo>P</lydo>
+            <donvi>0.5</donvi>
+            <trangthai>Đã phê duyệt</trangthai>
+        </nhanvien>
+        <nhanvien manv="S0005">
+            <lydo>TS</lydo>
+            <donvi>2</donvi>
+            <trangthai>Đã phê duyệt</trangthai>
+        </nhanvien>
+        <nhanvien manv="S0006">
+            <lydo>O</lydo>
+            <donvi>1</donvi>
+            <trangthai>Chờ phê duyệt</trangthai>
+        </nhanvien>
+    </ngaylamviec>
+</dangky>
+

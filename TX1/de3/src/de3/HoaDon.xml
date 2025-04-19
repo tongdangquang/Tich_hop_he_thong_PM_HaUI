@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="HoaDon.xsl"?>
+<hd
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='HoaDon.xsd'
+    mahd="HD01">
+    <loaihang tenloai="Điện tử">
+        <maloai>DT</maloai>
+        <hang mahang="H1">
+            <tenhang>Ti Vi</tenhang>
+            <soluong>60</soluong>
+            <donvitinh>chiếc</donvitinh>
+            <dongia>6000000</dongia>
+        </hang>
+        <hang mahang="H2">
+            <tenhang>Tủ Lạnh</tenhang>
+            <soluong>40</soluong>
+            <donvitinh>chiếc</donvitinh>
+            <dongia>4200000</dongia>
+        </hang>
+        <hang mahang="H3">
+            <tenhang>Điều Hòa</tenhang>
+            <soluong>50</soluong>
+            <donvitinh>chiếc</donvitinh>
+            <dongia>5000000</dongia>
+        </hang>
+    </loaihang>
+    <loaihang tenloai="Thực phẩm">
+        <maloai>TP</maloai>
+        <hang mahang="H4">
+            <tenhang>Mạch nha</tenhang>
+            <soluong>120</soluong>
+            <donvitinh>hộp</donvitinh>
+            <dongia>50000</dongia>
+        </hang>
+        <hang mahang="H5">
+            <tenhang>Bột canh</tenhang>
+            <soluong>200</soluong>
+            <donvitinh>gói</donvitinh>
+            <dongia>5000</dongia>
+        </hang>
+        <hang mahang="H6">
+            <tenhang>Mì chính</tenhang>
+            <soluong>100</soluong>
+            <donvitinh>gói</donvitinh>
+            <dongia>90000</dongia>
+        </hang>
+    </loaihang>
+</hd>
+

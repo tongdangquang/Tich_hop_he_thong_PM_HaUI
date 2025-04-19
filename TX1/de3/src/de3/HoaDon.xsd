@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XmlSchema.xsd to edit this template
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+           
+    <!--ràng buộc cho mã hàng-->
+    <xs:simpleType name="mahang_type">
+        <xs:restriction base="xs:ID">
+            <xs:maxLength value="6"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <!--ràng buộc cho đơn giá-->
+    <xs:simpleType name="dongia_type">
+        <xs:restriction base="xs:integer">
+            <xs:minExclusive value="0"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <!--ràng buộc cho đơn vị tính-->
+    <xs:simpleType name="donvitinh_type">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="gói"/>
+            <xs:enumeration value="hộp"/>
+            <xs:enumeration value="chiếc"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <!--ràng buộc cho hàng-->
+    <xs:complexType name="hang_type">
+        <xs:sequence>
+            <xs:element name="tenhang" type="xs:string"/>    
+            <xs:element name="soluong" type="xs:integer"/>    
+            <xs:element name="donvitinh" type="donvitinh_type"/>    
+            <xs:element name="dongia" type="dongia_type"/>    
+        </xs:sequence>
+        <xs:attribute name="mahang" type="mahang_type" use="required"/>
+    </xs:complexType>
+    
+    <!--ràng buộc cho loại hàng-->
+    <xs:complexType name="loaihang_type">
+        <xs:sequence>
+            <xs:element name="maloai" type="xs:string"/>
+            <xs:element name="hang" type="hang_type" maxOccurs="unbounded"/>
+        </xs:sequence>
+        <xs:attribute name="tenloai" type="xs:string" use="required"/>
+    </xs:complexType>
+    
+    <!--ràng buộc cho hóa đơn-->
+    <xs:complexType name="hd_type">
+        <xs:sequence>
+            <xs:element name="loaihang" type="loaihang_type" maxOccurs="10"/>
+        </xs:sequence>
+        <xs:attribute name="mahd" type="xs:string" use="required"/>
+    </xs:complexType>
+    
+    <!--phần tử gốc-->
+    <xs:element name="hd" type="hd_type"/>
+</xs:schema>

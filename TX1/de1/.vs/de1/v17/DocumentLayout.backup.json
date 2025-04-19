@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\TX1\\de1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBCF9A7-738B-4D84-9451-F87153FDC042}|de1\\de1.csproj|d:\\documents\\tich_hop_he_thong_pm_haui\\tx1\\de1\\de1\\quandoanh.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FBBCF9A7-738B-4D84-9451-F87153FDC042}|de1\\de1.csproj|solutionrelative:de1\\quandoanh.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBCF9A7-738B-4D84-9451-F87153FDC042}|de1\\de1.csproj|D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\TX1\\de1\\de1\\quandoanh.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FBBCF9A7-738B-4D84-9451-F87153FDC042}|de1\\de1.csproj|solutionrelative:de1\\quandoanh.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 177,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "quandoanh.xslt",
+              "DocumentMoniker": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\TX1\\de1\\de1\\quandoanh.xslt",
+              "RelativeDocumentMoniker": "de1\\quandoanh.xslt",
+              "ToolTip": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\TX1\\de1\\de1\\quandoanh.xslt",
+              "RelativeToolTip": "de1\\quandoanh.xslt",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003586|",
+              "WhenOpened": "2025-03-24T09:48:16.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "quandoanh.xml",
+              "DocumentMoniker": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\TX1\\de1\\de1\\quandoanh.xml",
+              "RelativeDocumentMoniker": "de1\\quandoanh.xml",
+              "ToolTip": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\TX1\\de1\\de1\\quandoanh.xml",
+              "RelativeToolTip": "de1\\quandoanh.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-24T09:43:08.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

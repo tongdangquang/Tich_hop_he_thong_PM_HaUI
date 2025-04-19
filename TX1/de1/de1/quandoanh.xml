@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="quandoanh.xslt"?>
+<quandoanh xmlns="http://tempuri.org/quandoanh.xsd">
+	<tieudoi matd="TD01">
+		<tentd>Hậu Cần</tentd>
+		<chiensi>
+			<hoten>Hồ Tùng Mậu</hoten>
+			<tuoi>18</tuoi>
+			<ngaynhapngu>2019-01-02</ngaynhapngu>
+			<tieusu>Không mắc bệnh</tieusu>
+			<luong>7.12</luong>
+		</chiensi>
+		<chiensi>
+			<hoten>Hồ Đắc Di</hoten>
+			<tuoi>22</tuoi>
+			<ngaynhapngu>2019-01-03</ngaynhapngu>
+			<tieusu>Cận 0.1 độ</tieusu>
+			<luong>8.12</luong>
+		</chiensi>
+	</tieudoi>
+
+	<tieudoi matd="TD02">
+		<tentd>Cứu Nạn</tentd>
+		<chiensi>
+			<hoten>Nguyễn Khánh Toàn</hoten>
+			<tuoi>20</tuoi>
+			<ngaynhapngu>2019-01-04</ngaynhapngu>
+			<tieusu>Dị ứng thời tiết</tieusu>
+			<luong>8</luong>
+		</chiensi>
+		<chiensi>
+			<hoten>Nguyễn Phong Sắc</hoten>
+			<tuoi>21</tuoi>
+			<ngaynhapngu>2019-01-05</ngaynhapngu>
+			<tieusu>Không mắc bệnh</tieusu>
+			<luong>8.5</luong>
+		</chiensi>
+	</tieudoi>
+</quandoanh>

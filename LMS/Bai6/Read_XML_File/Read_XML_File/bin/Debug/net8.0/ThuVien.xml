@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<thuvien>
+	<cuonsach masach="j01" theloai="Công nghệ thông tin">
+		<tensach>Lập trình Java</tensach>
+		<sotrang>500</sotrang>
+		<tacgia>
+			<hoten>Nguyễn Đăng Hoàng</hoten>
+			<dienthoai>09876548</dienthoai>
+		</tacgia>
+		<giatien>350</giatien>
+	</cuonsach>	
+	
+	<cuonsach masach="c03" theloai="Công nghệ thông tin">
+		<tensach>Cấu trúc dữ liệu và giải thuật</tensach>
+		<sotrang>450</sotrang>
+		<tacgia>
+			<hoten>Lê Mai Anh</hoten>
+			<dienthoai>09345681</dienthoai>
+		</tacgia>
+		<giatien>400</giatien>
+	</cuonsach>
+</thuvien>

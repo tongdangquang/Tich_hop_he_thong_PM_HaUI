@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XmlSchema.xsd to edit this template
+-->
+<!--12h13 -> 1h13-->
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+    <!--Ràng buộc cho mã sách-->
+    <xs:simpleType name="masach_type">
+        <xs:restriction base="xs:ID">
+            <xs:maxLength value="6"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <!--Ràng buộc cho số trang-->
+    <xs:simpleType name="sotrang_type">
+        <xs:restriction base="xs:integer">
+            <xs:minInclusive value="50"/>
+            <xs:maxInclusive value="400"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <!--Ràng buộc cho tên nhà xuất bản-->
+    <xs:simpleType name="tennxb_type">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Giáo dục"/>
+            <xs:enumeration value="Tuổi trẻ"/>
+            <xs:enumeration value="Khoa học kỹ thuật"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <!--Ràng buộc cho sách-->
+    <xs:complexType name="sach_type">
+        <xs:sequence>
+            <xs:element name="tensach" type="xs:string"/>
+            <xs:element name="theloai" type="xs:string"/> 
+            <xs:element name="sotrang" type="sotrang_type"/>
+        </xs:sequence>
+        <xs:attribute name="masach" type="masach_type" use="required"/>
+    </xs:complexType>
+    
+    <!--Ràng buộc cho nhà xuất bản-->
+    <xs:complexType name="nhaxb_type">
+        <xs:sequence>
+            <xs:element name="sach" type="sach_type" maxOccurs="unbounded"/>
+        </xs:sequence>
+        <xs:attribute name="tennxb" type="tennxb_type" use="required"/>
+    </xs:complexType>
+    
+    <!--Ràng buộc cho thư viện-->
+    <xs:complexType name="TV_type">
+        <xs:sequence>
+            <xs:element name="nhaxb" type="nhaxb_type" maxOccurs="10"/>
+        </xs:sequence>
+        <xs:attribute name="tentv" type="xs:string" use="required"/>
+    </xs:complexType>
+    
+    <!--Phần tử gốc -->
+    <xs:element name="TV" type="TV_type"/>
+</xs:schema>

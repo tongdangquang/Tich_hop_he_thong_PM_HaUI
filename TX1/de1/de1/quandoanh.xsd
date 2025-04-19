@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="quandoanh"
+    targetNamespace="http://tempuri.org/quandoanh.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/quandoanh.xsd"
+    xmlns:mstns="http://tempuri.org/quandoanh.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<!--ràng buộc cho mã tiểu đội-->
+	<xs:simpleType name="matd_type">
+		<xs:restriction base="xs:ID">
+			<xs:pattern value="[a-zA-Z]{2}\d{2}"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<!--ràng buộc tên tiểu đội-->
+	<xs:simpleType name="tentd_type">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Hậu Cần"/>
+			<xs:enumeration value="Giải Trí"/>
+			<xs:enumeration value="Cứu Nạn"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<!--ràng buộc cho tên và tiểu sử của chiến sĩ-->
+	<xs:simpleType name="hoten_type">
+		<xs:restriction base="xs:string">
+			<xs:maxLength value="100"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<!--ràng buộc tuổi-->
+	<xs:simpleType name="tuoi_type">
+		<xs:restriction base="xs:integer">
+			<xs:minInclusive value="18"/>
+			<xs:maxInclusive value="27"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!--ràng buộc ngày nhập ngũ-->
+	<xs:simpleType name="ngaynhapngu_type">
+		<xs:restriction base="xs:date">
+			<xs:minExclusive value="2011-01-01"/>
+			<xs:maxExclusive value="2021-01-01"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<!--ràng buộc lương-->
+	<xs:simpleType name="luong_type">
+		<xs:restriction base="xs:decimal">
+			<xs:fractionDigits value="2"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<!--ràng buộc cho chiến sĩ-->
+	<xs:complexType name="chiensi_type">
+		<xs:sequence>
+			<xs:element name="hoten" type="hoten_type"/>
+			<xs:element name="tuoi" type="tuoi_type"/>
+			<xs:element name="ngaynhapngu" type="ngaynhapngu_type"/>
+			<xs:element name="tieusu" type="hoten_type"/>
+			<xs:element name="luong" type="luong_type"/>
+		</xs:sequence>
+	</xs:complexType>
+	
+	<!--ràng buộc cho tiểu đội-->
+	<xs:complexType name="tieudoi_type">
+		<xs:sequence>
+			<xs:element name="tentd" type="tentd_type"/>
+			<xs:element name="chiensi" type="chiensi_type" maxOccurs="10"/>
+		</xs:sequence>
+		<xs:attribute name="matd" type="matd_type"/>
+	</xs:complexType>
+	
+	<!--ràng buộc vho quân doanh-->
+	<xs:complexType name="quandoanh_type">
+		<xs:sequence>
+			<xs:element name="tieudoi" type="tieudoi_type" maxOccurs="5"/>
+		</xs:sequence>
+	</xs:complexType>
+	
+	<!--phần tử gốc-->
+	<xs:element name="quandoanh" type="quandoanh_type"/>
+</xs:schema>

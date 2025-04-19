@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XmlSchema.xsd to edit this template
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+           
+    <!--ràng buộc cho mã nhân viên-->
+    <xs:simpleType name="manv_type">
+        <xs:restriction base="xs:ID">
+            <xs:length value="5"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <!--ràng buộc cho lí do-->
+    <xs:simpleType name="lydo_type">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="P"/>
+            <xs:enumeration value="O"/>
+            <xs:enumeration value="TS"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <!--ràng buộc cho trạng thái-->
+    <xs:simpleType name="trangthai_type">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Chờ phê duyệt"/>
+            <xs:enumeration value="Đã phê duyệt"/>
+            <xs:enumeration value="Không được phê duyệt"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <!--ràng buộc cho nhân viên-->
+    <xs:complexType name="nhanvien_type">
+        <xs:sequence>
+            <xs:element name="lydo" type="lydo_type"/>
+            <xs:element name="donvi" type="xs:decimal"/>
+            <xs:element name="trangthai" type="trangthai_type"/>
+        </xs:sequence>
+        <xs:attribute name="manv" type="manv_type" use="required"/>
+    </xs:complexType>
+    
+    <!--ràng buộc cho ngày làm việc-->
+    <xs:complexType name="ngaylamviec_type">
+        <xs:sequence>
+            <xs:element name="nhanvien" type="nhanvien_type" maxOccurs="unbounded"/>
+        </xs:sequence>
+        <xs:attribute name="ngay" type="xs:date" use="required"/>
+    </xs:complexType>
+    
+    <!--ràng buộc cho đăng ký-->
+    <xs:complexType name="dangky_type">
+        <xs:sequence>
+            <xs:element name="ngaylamviec" type="ngaylamviec_type" maxOccurs="31"/>
+        </xs:sequence>
+        <xs:attribute name="loai" type="xs:string" use="required"/>
+    </xs:complexType>
+    
+    <!--phần tử gốc-->
+    <xs:element name="dangky" type="dangky_type"/>
+</xs:schema>
