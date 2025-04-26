@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ChamCong.xsl"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<ChamCong
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='ChamCong.xsd'
+    BoPhan="Sản xuất">
+    <NgayLamViec Ngay="2022-11-18">
+        <NhanVien MaNV="S0001">
+            <CaLamViec>C1</CaLamViec>
+            <GioVao>05:50</GioVao>
+            <GioRa>15:00</GioRa>
+        </NhanVien>
+        <NhanVien MaNV="S0002">
+            <CaLamViec>C2</CaLamViec>
+            <GioVao>08:00</GioVao>
+            <GioRa>16:00</GioRa>
+        </NhanVien>
+        <NhanVien MaNV="S0003">
+            <CaLamViec>C3</CaLamViec>
+            <GioVao>17:00</GioVao>
+            <GioRa>22:00</GioRa>
+        </NhanVien>
+    </NgayLamViec>
+    
+    <NgayLamViec Ngay="2022-11-19">
+        <NhanVien MaNV="S0004">
+            <CaLamViec>C1</CaLamViec>
+            <GioVao>07:00</GioVao>
+            <GioRa>12:00</GioRa>
+        </NhanVien>
+        <NhanVien MaNV="S0005">
+            <CaLamViec>C2</CaLamViec>
+            <GioVao>12:00</GioVao>
+            <GioRa>18:00</GioRa>
+        </NhanVien>
+        <NhanVien MaNV="S0006">
+            <CaLamViec>C3</CaLamViec>
+            <GioVao>18:00</GioVao>
+            <GioRa>23:59</GioRa>
+        </NhanVien>
+    </NgayLamViec>
+</ChamCong>
+

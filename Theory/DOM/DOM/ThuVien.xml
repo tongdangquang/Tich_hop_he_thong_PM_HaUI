@@ -1,37 +1,72 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <TV tentv="Khu A Đại học Công nghiệp">
-	<nhaxb tennxb="Giáo dục">
+	<nhaxb tennxb="giaoduc">
 		<sach masach="S001">
 			<tensach>Tin văn phòng</tensach>
 			<theloai>Tin học</theloai>
 			<sotrang>80</sotrang>
+			<tacgia>
+				<hoten>Nguyễn Văn A</hoten>
+				<diachi>Hà Nội</diachi>
+				<dienthoai>0123456789</dienthoai>
+			</tacgia>
 		</sach>
+		
 		<sach masach="S002">
 			<tensach>Kế toán doanh nghiệp</tensach>
 			<theloai>Kinh tế</theloai>
 			<sotrang>180</sotrang>
+			<tacgia>
+				<hoten>Nguyễn Văn A</hoten>
+				<diachi>Hà Nội</diachi>
+				<dienthoai>0123456789</dienthoai>
+			</tacgia>
 		</sach>
+		
 		<sach masach="S003">
 			<tensach>Cấu trúc dữ liệu</tensach>
 			<theloai>CNTT</theloai>
 			<sotrang>150</sotrang>
+			<tacgia>
+				<hoten>Nguyễn Văn A</hoten>
+				<diachi>Hà Nội</diachi>
+				<dienthoai>0123456789</dienthoai>
+			</tacgia>
 		</sach>
 	</nhaxb>
+	
 	<nhaxb tennxb="Trí tuệ">
 		<sach masach="S001">
 			<tensach>Tin văn phòng</tensach>
 			<theloai>Tin học</theloai>
 			<sotrang>80</sotrang>
+			<tacgia>
+				<hoten>Nguyễn Văn A</hoten>
+				<diachi>Hà Nội</diachi>
+				<dienthoai>0123456789</dienthoai>
+			</tacgia>
 		</sach>
+		
 		<sach masach="S002">
 			<tensach>Kế toán doanh nghiệp</tensach>
 			<theloai>Kinh tế</theloai>
 			<sotrang>180</sotrang>
+			<tacgia>
+				<hoten>Nguyễn Văn A</hoten>
+				<diachi>Hà Nội</diachi>
+				<dienthoai>0123456789</dienthoai>
+			</tacgia>
 		</sach>
+		
 		<sach masach="S003">
 			<tensach>Cấu trúc dữ liệu</tensach>
 			<theloai>CNTT</theloai>
 			<sotrang>150</sotrang>
+			<tacgia>
+				<hoten>Nguyễn Văn A</hoten>
+				<diachi>Hà Nội</diachi>
+				<dienthoai>0123456789</dienthoai>
+			</tacgia>
 		</sach>
 	</nhaxb>
 </TV>

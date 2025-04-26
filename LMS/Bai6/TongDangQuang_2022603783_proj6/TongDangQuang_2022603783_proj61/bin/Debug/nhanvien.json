@@ -1,0 +1,37 @@
+[
+  {
+    "manv": "NV01",
+    "hoten": "Nguyễn Văn A",
+    "tuoi": 20,
+    "dienthoai": "012345",
+    "luong": 1000.0
+  },
+  {
+    "manv": "NV02",
+    "hoten": "Nguyễn Văn B",
+    "tuoi": 25,
+    "dienthoai": "012346",
+    "luong": 2000.0
+  },
+  {
+    "manv": "NV03",
+    "hoten": "Nguyễn Văn C",
+    "tuoi": 30,
+    "dienthoai": "012347",
+    "luong": 3000.0
+  },
+  {
+    "manv": "NV04",
+    "hoten": "Nguyễn Văn D",
+    "tuoi": 35,
+    "dienthoai": "012348",
+    "luong": 4000.0
+  },
+  {
+    "manv": "NV05",
+    "hoten": "Nguyễn Văn E",
+    "tuoi": 40,
+    "dienthoai": "012349",
+    "luong": 5000.0
+  }
+]

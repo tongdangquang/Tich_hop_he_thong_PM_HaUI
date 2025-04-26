@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="DuBaoThoiTiet.xsl"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+<dubaothoitiet
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='DuBaoThoiTiet.xsd'>
+    <thoitiet ngay="2023-10-28">
+        <khuvuc ma="123456">
+            <kieuthoitiet>Nắng</kieuthoitiet>
+            <nhietdocaonhat>35</nhietdocaonhat>
+            <nhietdothapnhat>29</nhietdothapnhat>
+        </khuvuc>
+        <khuvuc ma="123457">
+            <kieuthoitiet>Mưa</kieuthoitiet>
+            <nhietdocaonhat>30</nhietdocaonhat>
+            <nhietdothapnhat>25</nhietdothapnhat>
+        </khuvuc>
+    </thoitiet>
+    <thoitiet ngay="2023-10-29">
+        <khuvuc ma="123458">
+            <kieuthoitiet>Mây</kieuthoitiet>
+            <nhietdocaonhat>33</nhietdocaonhat>
+            <nhietdothapnhat>27</nhietdothapnhat>
+        </khuvuc>
+        <khuvuc ma="123459">
+            <kieuthoitiet>Mưa</kieuthoitiet>
+            <nhietdocaonhat>27</nhietdocaonhat>
+            <nhietdothapnhat>25</nhietdothapnhat>
+        </khuvuc>
+    </thoitiet>
+</dubaothoitiet>
+

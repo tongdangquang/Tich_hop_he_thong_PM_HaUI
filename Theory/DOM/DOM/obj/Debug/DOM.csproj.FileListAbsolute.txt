@@ -1,4 +1,3 @@
-D:\Documents\Tich_hop_he_thong_PM_HaUI\Theory\DOM\DOM\bin\Debug\ThuVien.xml
 D:\Documents\Tich_hop_he_thong_PM_HaUI\Theory\DOM\DOM\bin\Debug\DOM.exe.config
 D:\Documents\Tich_hop_he_thong_PM_HaUI\Theory\DOM\DOM\bin\Debug\DOM.exe
 D:\Documents\Tich_hop_he_thong_PM_HaUI\Theory\DOM\DOM\bin\Debug\DOM.pdb

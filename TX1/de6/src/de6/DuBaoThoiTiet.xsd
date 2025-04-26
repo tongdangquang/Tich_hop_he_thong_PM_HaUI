@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XmlSchema.xsd to edit this template
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+
+    <!--ràng buộc cho mã khu vực-->
+    <xs:simpleType name="ma_type">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="\d{6}"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <!--ràng buộc cho kiểu thời tiết-->
+    <xs:simpleType name="kieuthoitiet_type">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Nắng"/>
+            <xs:enumeration value="Mây"/>
+            <xs:enumeration value="Mưa"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <!--ràng buộc cho nhiệt độ--> 
+    <xs:simpleType name="nhietdo_type">
+        <xs:restriction base="xs:decimal">
+            <xs:minInclusive value="10"/>
+            <xs:maxInclusive value="50"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <!-- ràng buộc cho thẻ khu vực-->
+    <xs:complexType name="khuvuc_type">
+        <xs:sequence>
+            <xs:element name="kieuthoitiet" type="kieuthoitiet_type"/>
+            <xs:element name="nhietdocaonhat" type="nhietdo_type"/>
+            <xs:element name="nhietdothapnhat" type="nhietdo_type"/>
+        </xs:sequence>
+        <xs:attribute name="ma" type="ma_type" use="required"/>
+    </xs:complexType>
+    
+    <!--ràng buộc cho thẻ thời tiết-->
+    <xs:complexType name="thoitiet_type">
+        <xs:sequence>
+            <xs:element name="khuvuc" type="khuvuc_type" maxOccurs="3"/>
+        </xs:sequence>
+        <xs:attribute name="ngay" type="xs:date" use="required"/>
+    </xs:complexType>
+    
+    <!--ràng buộc cho thẻ dư báo thời tiết-->
+    <xs:complexType name="dubaothoitiet_type">
+        <xs:sequence>
+            <xs:element name="thoitiet" type="thoitiet_type" maxOccurs="30"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <!--phần tử gốc-->
+    <xs:element name="dubaothoitiet" type="dubaothoitiet_type"/>
+</xs:schema>

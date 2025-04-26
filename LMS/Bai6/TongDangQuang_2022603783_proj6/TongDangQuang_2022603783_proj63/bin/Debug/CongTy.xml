@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<congty>
+	<nhanvien manv="n01">
+		<hoten>Nguyễn Thị Anh</hoten>
+		<tuoi>30</tuoi>
+		<luong>1000</luong>
+		<diachi>
+			<xa>Minh Khai</xa>
+			<huyen>Bắc Từ Liêm</huyen>
+			<tinh>Hà Nội</tinh>
+		</diachi>
+		<dienthoai>0987656781</dienthoai>
+	</nhanvien>
+	<nhanvien manv="n02">
+		<hoten>Trần Văn Tuấn</hoten>
+		<tuoi>30</tuoi>
+		<luong>1200</luong>
+		<diachi>
+			<xa>Liên Mạc</xa>
+			<huyen>Bắc Từ Liêm</huyen>
+			<tinh>Hà Nội</tinh>
+		</diachi>
+		<dienthoai>0923556774</dienthoai>
+	</nhanvien>
+</congty>
