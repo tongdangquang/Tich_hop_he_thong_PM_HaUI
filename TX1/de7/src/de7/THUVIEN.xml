@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="THUVIEN.xsl"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+<TV
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='THUVIEN.xsd'
+    TenTV="Khu A Đại học Công Nghiệp">
+    <NhaXB TenNXB="Giáo dục">
+        <Sach MaSach="S001">
+            <TenSach>Tin văn phòng</TenSach>
+            <TheLoai>Tin học</TheLoai>
+            <SoTrang>120</SoTrang>
+        </Sach>
+    
+        <Sach MaSach="S002">
+            <TenSach>Thị trường chứng khoán</TenSach>
+            <TheLoai>Kinh tế</TheLoai>
+            <SoTrang>100</SoTrang>
+        </Sach>
+    
+        <Sach MaSach="S003">
+            <TenSach>Toán rời rạc</TenSach>
+            <TheLoai>CNTT</TheLoai>
+            <SoTrang>200</SoTrang>
+        </Sach>
+    </NhaXB>
+    
+    <NhaXB TenNXB="Tuổi trẻ">
+        <Sach MaSach="S004">
+            <TenSach>Giải tích</TenSach>
+            <TheLoai>KHCB</TheLoai>
+            <SoTrang>120</SoTrang>
+        </Sach>
+    
+        <Sach MaSach="S005">
+            <TenSach>Tư tưởng Hồ Chí Minh</TenSach>
+            <TheLoai>Lý luận chính trị</TheLoai>
+            <SoTrang>150</SoTrang>
+        </Sach>
+    
+        <Sach MaSach="S006">
+            <TenSach>Cơ sở dữ liệu</TenSach>
+            <TheLoai>CNTT</TheLoai>
+            <SoTrang>130</SoTrang>
+        </Sach>
+    </NhaXB>
+</TV>
+
