@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<congty>
+  <nhanvien manv="n01">
+    <hoten>Nguyễn Thị Anh</hoten>
+    <tuoi>30</tuoi>
+    <luong>100</luong>
+    <diachi>
+      <xa>Minh Khai</xa>
+      <huyen>Bắc Từ Liêm</huyen>
+      <tinh>Hà Nội</tinh>
+    </diachi>
+    <dienthoai>0987656781</dienthoai>
+  </nhanvien>
+  <nhanvien manv="n02">
+    <hoten>Tống Đăng Quang</hoten>
+    <tuoi>22</tuoi>
+    <luong>130</luong>
+    <diachi>
+      <xa>Quỳnh An</xa>
+      <huyen>Nam Từ Liêm</huyen>
+      <tinh>Thái Bình</tinh>
+    </diachi>
+    <dienthoai>0123456789</dienthoai>
+  </nhanvien>
+  <nhanvien manv="n03">
+    <hoten>Hồ Tùng Mậu</hoten>
+    <tuoi>22</tuoi>
+    <luong>130</luong>
+    <diachi>
+      <xa>Mai Dịch</xa>
+      <huyen>Cầu Giấy</huyen>
+      <tinh>Hà Nội</tinh>
+    </diachi>
+    <dienthoai>0123456789</dienthoai>
+  </nhanvien>
+  <nhanvien manv="n04">
+    <hoten>Hồ Đắc Di</hoten>
+    <tuoi>22</tuoi>
+    <luong>200</luong>
+    <diachi>
+      <xa>Mai Dịch</xa>
+      <huyen>Cầu Giấy</huyen>
+      <tinh>Hà Nội</tinh>
+    </diachi>
+    <dienthoai>0123456789</dienthoai>
+  </nhanvien>
+  <nhanvien manv="n05">
+    <hoten>Tống Quang Đăng</hoten>
+    <tuoi>22</tuoi>
+    <luong>130</luong>
+    <diachi>
+      <xa>Quỳnh An</xa>
+      <huyen>Nam Từ Liêm</huyen>
+      <tinh>Thái Bình</tinh>
+    </diachi>
+    <dienthoai>0123456789</dienthoai>
+  </nhanvien>
+</congty>

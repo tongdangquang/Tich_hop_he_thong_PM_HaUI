@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<?xml-stylesheet type="text/xsl" href="players.xslt"?>
+<bongda>
+	<cauthu soao="10">
+		<hoten>Nguyễn Văn A</hoten>
+		<banthang>1</banthang>
+		<kientao>2</kientao>
+		<socusut>10</socusut>
+	</cauthu>
+	<cauthu soao="20">
+		<hoten>Nguyễn Văn B</hoten>
+		<banthang>2</banthang>
+		<kientao>0</kientao>
+		<socusut>7</socusut>
+	</cauthu>
+	<cauthu soao="12">
+		<hoten>Nguyễn Văn C</hoten>
+		<banthang>1</banthang>
+		<kientao>0</kientao>
+		<socusut>5</socusut>
+	</cauthu>
+	<cauthu soao="08">
+		<hoten>Nguyễn Văn D</hoten>
+		<banthang>0</banthang>
+		<kientao>0</kientao>
+		<socusut>2</socusut>
+	</cauthu>
+</bongda>

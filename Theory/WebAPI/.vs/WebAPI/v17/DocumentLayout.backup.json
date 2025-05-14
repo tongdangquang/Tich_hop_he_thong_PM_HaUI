@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\Theory\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF07BB9D-6122-4287-8A81-3E6D84DFB34E}|WebAPI\\WebAPI.csproj|d:\\documents\\tich_hop_he_thong_pm_haui\\theory\\webapi\\webapi\\controllers\\testdbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF07BB9D-6122-4287-8A81-3E6D84DFB34E}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\testdbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF07BB9D-6122-4287-8A81-3E6D84DFB34E}|WebAPI\\WebAPI.csproj|D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\Theory\\WebAPI\\webapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF07BB9D-6122-4287-8A81-3E6D84DFB34E}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF07BB9D-6122-4287-8A81-3E6D84DFB34E}|WebAPI\\WebAPI.csproj|d:\\documents\\tich_hop_he_thong_pm_haui\\theory\\webapi\\webapi\\models\\catalogy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF07BB9D-6122-4287-8A81-3E6D84DFB34E}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\catalogy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Catalogy.cs",
+              "DocumentMoniker": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\Theory\\WebAPI\\WebAPI\\Models\\Catalogy.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Catalogy.cs",
+              "ToolTip": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\Theory\\WebAPI\\WebAPI\\Models\\Catalogy.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Catalogy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:17:11.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\Theory\\WebAPI\\WebAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Product.cs",
+              "ToolTip": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\Theory\\WebAPI\\WebAPI\\Models\\Product.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Product.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:07:13.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestDBController.cs",
+              "DocumentMoniker": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\Theory\\WebAPI\\WebAPI\\Controllers\\TestDBController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\TestDBController.cs",
+              "ToolTip": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\Theory\\WebAPI\\WebAPI\\Controllers\\TestDBController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\TestDBController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T01:30:11.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML_XSD_XSLT", "XML_XSD_XSLT.csproj", "{643DCBDE-88C0-439A-8BF7-D87E1D5683D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{643DCBDE-88C0-439A-8BF7-D87E1D5683D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643DCBDE-88C0-439A-8BF7-D87E1D5683D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643DCBDE-88C0-439A-8BF7-D87E1D5683D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643DCBDE-88C0-439A-8BF7-D87E1D5683D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E12FD9F-6612-4822-BA1F-9FC822CF6913}
+	EndGlobalSection
+EndGlobal

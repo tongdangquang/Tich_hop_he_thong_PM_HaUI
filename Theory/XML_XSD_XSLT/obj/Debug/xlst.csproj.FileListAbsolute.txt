@@ -1,0 +1,9 @@
+D:\Documents\Tich_hop_he_thong_PM_HaUI\Baihoc\Bai3\xlst\bin\Debug\xlst.exe.config
+D:\Documents\Tich_hop_he_thong_PM_HaUI\Baihoc\Bai3\xlst\bin\Debug\xlst.exe
+D:\Documents\Tich_hop_he_thong_PM_HaUI\Baihoc\Bai3\xlst\bin\Debug\xlst.pdb
+D:\Documents\Tich_hop_he_thong_PM_HaUI\Baihoc\Bai3\xlst\obj\Debug\xlst.csproj.AssemblyReference.cache
+D:\Documents\Tich_hop_he_thong_PM_HaUI\Baihoc\Bai3\xlst\obj\Debug\xlst.Properties.Resources.resources
+D:\Documents\Tich_hop_he_thong_PM_HaUI\Baihoc\Bai3\xlst\obj\Debug\xlst.csproj.GenerateResource.cache
+D:\Documents\Tich_hop_he_thong_PM_HaUI\Baihoc\Bai3\xlst\obj\Debug\xlst.csproj.CoreCompileInputs.cache
+D:\Documents\Tich_hop_he_thong_PM_HaUI\Baihoc\Bai3\xlst\obj\Debug\xlst.exe
+D:\Documents\Tich_hop_he_thong_PM_HaUI\Baihoc\Bai3\xlst\obj\Debug\xlst.pdb

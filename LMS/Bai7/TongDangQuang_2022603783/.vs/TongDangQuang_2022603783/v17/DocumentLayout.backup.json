@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\LMS\\Bai7\\TongDangQuang_2022603783\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77949D7A-34C8-4FA9-9EF7-507D87365207}|TongDangQuang_2022603783_proj71\\TongDangQuang_2022603783_proj71_73.csproj|d:\\documents\\tich_hop_he_thong_pm_haui\\lms\\bai7\\tongdangquang_2022603783\\tongdangquang_2022603783_proj71\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77949D7A-34C8-4FA9-9EF7-507D87365207}|TongDangQuang_2022603783_proj71\\TongDangQuang_2022603783_proj71_73.csproj|solutionrelative:tongdangquang_2022603783_proj71\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77949D7A-34C8-4FA9-9EF7-507D87365207}|TongDangQuang_2022603783_proj71\\TongDangQuang_2022603783_proj71_73.csproj|d:\\documents\\tich_hop_he_thong_pm_haui\\lms\\bai7\\tongdangquang_2022603783\\tongdangquang_2022603783_proj71\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77949D7A-34C8-4FA9-9EF7-507D87365207}|TongDangQuang_2022603783_proj71\\TongDangQuang_2022603783_proj71_73.csproj|solutionrelative:tongdangquang_2022603783_proj71\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77949D7A-34C8-4FA9-9EF7-507D87365207}|TongDangQuang_2022603783_proj71\\TongDangQuang_2022603783_proj71_73.csproj|d:\\documents\\tich_hop_he_thong_pm_haui\\lms\\bai7\\tongdangquang_2022603783\\tongdangquang_2022603783_proj71\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77949D7A-34C8-4FA9-9EF7-507D87365207}|TongDangQuang_2022603783_proj71\\TongDangQuang_2022603783_proj71_73.csproj|solutionrelative:tongdangquang_2022603783_proj71\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77949D7A-34C8-4FA9-9EF7-507D87365207}|TongDangQuang_2022603783_proj71\\TongDangQuang_2022603783_proj71_73.csproj|d:\\documents\\tich_hop_he_thong_pm_haui\\lms\\bai7\\tongdangquang_2022603783\\tongdangquang_2022603783_proj71\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77949D7A-34C8-4FA9-9EF7-507D87365207}|TongDangQuang_2022603783_proj71\\TongDangQuang_2022603783_proj71_73.csproj|solutionrelative:tongdangquang_2022603783_proj71\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\LMS\\Bai7\\TongDangQuang_2022603783\\TongDangQuang_2022603783_proj71\\Form1.cs",
+              "RelativeDocumentMoniker": "TongDangQuang_2022603783_proj71\\Form1.cs",
+              "ToolTip": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\LMS\\Bai7\\TongDangQuang_2022603783\\TongDangQuang_2022603783_proj71\\Form1.cs",
+              "RelativeToolTip": "TongDangQuang_2022603783_proj71\\Form1.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAAL0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:10:18.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\LMS\\Bai7\\TongDangQuang_2022603783\\TongDangQuang_2022603783_proj71\\Form1.cs",
+              "RelativeDocumentMoniker": "TongDangQuang_2022603783_proj71\\Form1.cs",
+              "ToolTip": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\LMS\\Bai7\\TongDangQuang_2022603783\\TongDangQuang_2022603783_proj71\\Form1.cs [Design]",
+              "RelativeToolTip": "TongDangQuang_2022603783_proj71\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:10:16.542Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataUtil.cs",
+              "DocumentMoniker": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\LMS\\Bai7\\TongDangQuang_2022603783\\TongDangQuang_2022603783_proj71\\DataUtil.cs",
+              "RelativeDocumentMoniker": "TongDangQuang_2022603783_proj71\\DataUtil.cs",
+              "ToolTip": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\LMS\\Bai7\\TongDangQuang_2022603783\\TongDangQuang_2022603783_proj71\\DataUtil.cs",
+              "RelativeToolTip": "TongDangQuang_2022603783_proj71\\DataUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:10:12.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Taikhoan.cs",
+              "DocumentMoniker": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\LMS\\Bai7\\TongDangQuang_2022603783\\TongDangQuang_2022603783_proj71\\Taikhoan.cs",
+              "RelativeDocumentMoniker": "TongDangQuang_2022603783_proj71\\Taikhoan.cs",
+              "ToolTip": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\LMS\\Bai7\\TongDangQuang_2022603783\\TongDangQuang_2022603783_proj71\\Taikhoan.cs",
+              "RelativeToolTip": "TongDangQuang_2022603783_proj71\\Taikhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:10:10.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

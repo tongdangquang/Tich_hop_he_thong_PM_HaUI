@@ -1,0 +1,16 @@
+<nganhang>
+  <taikhoan>
+    <sotaikhoan>tk001</sotaikhoan>
+    <tentaikhoan>Nguyen Thi Mai Anh</tentaikhoan>
+    <diachi>Ha noi</diachi>
+    <dienthoai>098734540</dienthoai>
+    <sotien>300000</sotien>
+  </taikhoan>
+  <taikhoan>
+    <sotaikhoan>tk002</sotaikhoan>
+    <tentaikhoan>Tong Dang Quang</tentaikhoan>
+    <diachi>Thai binh</diachi>
+    <dienthoai>0123456789</dienthoai>
+    <sotien>100000</sotien>
+  </taikhoan>
+</nganhang>
