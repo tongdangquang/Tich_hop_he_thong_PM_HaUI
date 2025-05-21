@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<banggiaxe>
+  <hangxe ten="Toyota">
+    <dongxe ten="Camry 2022">
+      <phienban>2.0G</phienban>
+      <dongco>6AR-FSE, 2.0l</dongco>
+      <gia>1070</gia>
+    </dongxe>
+    <dongxe ten="X4 2021">
+      <phienban>xDrive20i M Sport</phienban>
+      <dongco>B48, Xăng, I4, 2.0</dongco>
+      <gia>3079</gia>
+    </dongxe>
+  </hangxe>
+  <hangxe ten="BMW">
+    <dongxe ten="X4 2021">
+      <phienban>xDrive20i M Sport</phienban>
+      <dongco>B48, Xăng, I4, 2.0</dongco>
+      <gia>3079</gia>
+    </dongxe>
+    <dongxe ten="Series 3 2021">
+      <phienban>320i Sport Line</phienban>
+      <dongco>Xăng, I4, 2.0</dongco>
+      <gia>1899</gia>
+    </dongxe>
+  </hangxe>
+  <hangxe ten="Mercedes">
+    <dongxe ten="GLC 250">
+      <phienban>C</phienban>
+      <dongco>2.0</dongco>
+      <gia>3500</gia>
+    </dongxe>
+  </hangxe>
+</banggiaxe>
