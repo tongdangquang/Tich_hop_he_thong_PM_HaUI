@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lophoc>
+  <sinhvien masv="sv01" tuoi="19">
+    <hoten>Van Anh</hoten>
+    <diachi>Ha noi</diachi>
+    <monhoc>
+      <tenmon>Java</tenmon>
+      <diem>8</diem>
+    </monhoc>
+  </sinhvien>
+</lophoc>

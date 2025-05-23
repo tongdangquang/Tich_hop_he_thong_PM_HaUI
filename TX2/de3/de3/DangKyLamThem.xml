@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DangKyLamThem>
+	<NgayLamViec Ngay="15/08/2023">
+		<NhanVien Ma="S0001">
+			<LoaiLamThem>150%</LoaiLamThem>
+			<SoGio>2</SoGio>
+			<TrangThai>Chờ phê duyệt</TrangThai> 
+		</NhanVien>
+		<NhanVien Ma="S0002">
+			<LoaiLamThem>210%</LoaiLamThem>
+			<SoGio>1.5</SoGio>
+			<TrangThai>Đã phê duyệt</TrangThai>
+		</NhanVien>
+	</NgayLamViec>
+</DangKyLamThem>

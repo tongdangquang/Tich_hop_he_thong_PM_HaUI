@@ -1,0 +1,10 @@
+D:\Documents\Tich_hop_he_thong_PM_HaUI\TX2\de3\de3\bin\Debug\de3.exe.config
+D:\Documents\Tich_hop_he_thong_PM_HaUI\TX2\de3\de3\bin\Debug\de3.exe
+D:\Documents\Tich_hop_he_thong_PM_HaUI\TX2\de3\de3\bin\Debug\de3.pdb
+D:\Documents\Tich_hop_he_thong_PM_HaUI\TX2\de3\de3\obj\Debug\de3.csproj.AssemblyReference.cache
+D:\Documents\Tich_hop_he_thong_PM_HaUI\TX2\de3\de3\obj\Debug\de3.Form1.resources
+D:\Documents\Tich_hop_he_thong_PM_HaUI\TX2\de3\de3\obj\Debug\de3.Properties.Resources.resources
+D:\Documents\Tich_hop_he_thong_PM_HaUI\TX2\de3\de3\obj\Debug\de3.csproj.GenerateResource.cache
+D:\Documents\Tich_hop_he_thong_PM_HaUI\TX2\de3\de3\obj\Debug\de3.csproj.CoreCompileInputs.cache
+D:\Documents\Tich_hop_he_thong_PM_HaUI\TX2\de3\de3\obj\Debug\de3.exe
+D:\Documents\Tich_hop_he_thong_PM_HaUI\TX2\de3\de3\obj\Debug\de3.pdb
