@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\Theory\\WEB_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A97D583-318C-436E-9532-822D5802CEF2}|WEP_API_DATABASE\\WEP_API_DATABASE.csproj|d:\\documents\\tich_hop_he_thong_pm_haui\\theory\\web_api\\wep_api_database\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A97D583-318C-436E-9532-822D5802CEF2}|WEP_API_DATABASE\\WEP_API_DATABASE.csproj|solutionrelative:wep_api_database\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A97D583-318C-436E-9532-822D5802CEF2}|WEP_API_DATABASE\\WEP_API_DATABASE.csproj|D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\Theory\\WEB_API\\wep_api_database\\models\\truonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A97D583-318C-436E-9532-822D5802CEF2}|WEP_API_DATABASE\\WEP_API_DATABASE.csproj|solutionrelative:wep_api_database\\models\\truonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Truonghoc.cs",
+              "DocumentMoniker": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\Theory\\WEB_API\\WEP_API_DATABASE\\Models\\Truonghoc.cs",
+              "RelativeDocumentMoniker": "WEP_API_DATABASE\\Models\\Truonghoc.cs",
+              "ToolTip": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\Theory\\WEB_API\\WEP_API_DATABASE\\Models\\Truonghoc.cs",
+              "RelativeToolTip": "WEP_API_DATABASE\\Models\\Truonghoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:53:32.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\Theory\\WEB_API\\WEP_API_DATABASE\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "WEP_API_DATABASE\\Controllers\\DefaultController.cs",
+              "ToolTip": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\Theory\\WEB_API\\WEP_API_DATABASE\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "WEP_API_DATABASE\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAE0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:46:15.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

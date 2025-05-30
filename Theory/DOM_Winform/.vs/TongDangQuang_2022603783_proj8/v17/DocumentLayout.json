@@ -25,19 +25,6 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\Theory\\DOM_Winform\\TongDangQuang_2022603783_proj8\\Form1.cs",
-              "RelativeDocumentMoniker": "TongDangQuang_2022603783_proj8\\Form1.cs",
-              "ToolTip": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\Theory\\DOM_Winform\\TongDangQuang_2022603783_proj8\\Form1.cs",
-              "RelativeToolTip": "TongDangQuang_2022603783_proj8\\Form1.cs",
-              "ViewState": "AgIAALwAAAAAAAAAAAAAwBQBAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T10:52:27.543Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
@@ -51,13 +38,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\Theory\\DOM_Winform\\TongDangQuang_2022603783_proj8\\Form1.cs",
+              "RelativeDocumentMoniker": "TongDangQuang_2022603783_proj8\\Form1.cs",
+              "ToolTip": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\Theory\\DOM_Winform\\TongDangQuang_2022603783_proj8\\Form1.cs",
+              "RelativeToolTip": "TongDangQuang_2022603783_proj8\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwEkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:52:27.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DataUtil.cs",
               "DocumentMoniker": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\Theory\\DOM_Winform\\TongDangQuang_2022603783_proj8\\DataUtil.cs",
               "RelativeDocumentMoniker": "TongDangQuang_2022603783_proj8\\DataUtil.cs",
               "ToolTip": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\Theory\\DOM_Winform\\TongDangQuang_2022603783_proj8\\DataUtil.cs",
               "RelativeToolTip": "TongDangQuang_2022603783_proj8\\DataUtil.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAIQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAkwG4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T10:44:36.268Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "ToolTip": "D:\\Documents\\Tich_hop_he_thong_PM_HaUI\\Theory\\DOM_Winform\\TongDangQuang_2022603783_proj8\\Form1.cs [Design]",
               "RelativeToolTip": "TongDangQuang_2022603783_proj8\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T12:07:23.807Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-13T12:07:23.807Z"
             }
           ]
         }
