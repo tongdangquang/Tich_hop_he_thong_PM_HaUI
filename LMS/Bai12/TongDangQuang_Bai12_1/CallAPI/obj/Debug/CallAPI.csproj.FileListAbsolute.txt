@@ -1,0 +1,10 @@
+D:\Documents\Tich_hop_he_thong_PM_HaUI\LMS\Bai12\TongDangQuang_Bai12_1\CallAPI\bin\Debug\CallAPI.exe.config
+D:\Documents\Tich_hop_he_thong_PM_HaUI\LMS\Bai12\TongDangQuang_Bai12_1\CallAPI\bin\Debug\CallAPI.exe
+D:\Documents\Tich_hop_he_thong_PM_HaUI\LMS\Bai12\TongDangQuang_Bai12_1\CallAPI\bin\Debug\CallAPI.pdb
+D:\Documents\Tich_hop_he_thong_PM_HaUI\LMS\Bai12\TongDangQuang_Bai12_1\CallAPI\obj\Debug\CallAPI.csproj.AssemblyReference.cache
+D:\Documents\Tich_hop_he_thong_PM_HaUI\LMS\Bai12\TongDangQuang_Bai12_1\CallAPI\obj\Debug\CallAPI.Form1.resources
+D:\Documents\Tich_hop_he_thong_PM_HaUI\LMS\Bai12\TongDangQuang_Bai12_1\CallAPI\obj\Debug\CallAPI.Properties.Resources.resources
+D:\Documents\Tich_hop_he_thong_PM_HaUI\LMS\Bai12\TongDangQuang_Bai12_1\CallAPI\obj\Debug\CallAPI.csproj.GenerateResource.cache
+D:\Documents\Tich_hop_he_thong_PM_HaUI\LMS\Bai12\TongDangQuang_Bai12_1\CallAPI\obj\Debug\CallAPI.csproj.CoreCompileInputs.cache
+D:\Documents\Tich_hop_he_thong_PM_HaUI\LMS\Bai12\TongDangQuang_Bai12_1\CallAPI\obj\Debug\CallAPI.exe
+D:\Documents\Tich_hop_he_thong_PM_HaUI\LMS\Bai12\TongDangQuang_Bai12_1\CallAPI\obj\Debug\CallAPI.pdb
