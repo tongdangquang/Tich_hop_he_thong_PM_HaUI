@@ -1,0 +1,7 @@
+// chuyển đổi dữ liệu kiểu DateTime sang DateOnly (viết trong file App_Start/WebApiConfig.cs)
+var json = config.Formatters.JsonFormatter;
+json.SerializerSettings.Converters.Add(new IsoDateTimeConverter { DateTimeFormat = "dd/MM/yyyy" });
+
+// xử lý lỗi tuần tự hóa (viết trong file Global.asax)
+GlobalConfiguration.Configuration.Formatters.JsonFormatter.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore; 
+GlobalConfiguration.Configuration.Formatters.Remove(GlobalConfiguration.Configuration.Formatters.XmlFormatter); 
